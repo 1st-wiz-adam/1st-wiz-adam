@@ -19,7 +19,7 @@ After recieving certifications in the industry and with some experience under th
 - NSE 2 - Fortinet Network Security Associate
 - 💞️ I’m looking to collaborate on Kubernetes and more!
 - 📫 How to reach me
-- email me: adam.schmitt@veteranets.com
+- email me: schmitt.adam101@gmail.com
 - Discord: FirstWizard Zorrander#7036
 - 
 
