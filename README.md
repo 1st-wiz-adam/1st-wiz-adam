@@ -17,6 +17,7 @@ After recieving certifications in the industry and with some experience under th
 - CCNA - Cisco Certified Network Administrator 
 - NSE 1 - Fortinet Network Security Associate
 - NSE 2 - Fortinet Network Security Associate
+- Dell Certified Associate Data Protection and Management
 - 💞️ I’m looking to collaborate on Kubernetes and more!
 - 📫 How to reach me
 - email me: schmitt.adam101@gmail.com
