@@ -20,8 +20,7 @@ After recieving certifications in the industry and with some experience under th
 - 💞️ I’m looking to collaborate on Kubernetes and more!
 - 📫 How to reach me
 - email me: schmitt.adam101@gmail.com
-- Discord: FirstWizard Zorrander#7036
-- 
+
 
 <!---
 1st-wiz-adam/1st-wiz-adam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
